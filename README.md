@@ -156,13 +156,15 @@ The bug report includes:
 
 ## Repository Structure
 
-```text
-qa-testing-autotronic-web/
+qa-testing-iot-card-dashboard/
 │
 ├── README.md
 │
-├── Test Cases/
-│   └── Project QA – Website Perpanjangan Kartu IoT.xlsx
+├── Bug Reports/
+│   └── Bug Report - Website perpanjangan kartu IoT.csv
 │
-└── Evidence/
-    └── Bug Screenshots
+├── Documentation/
+│   └── testing-summary.md
+│
+└── Test Cases/
+    └── Project QA – Website Perpanjangan Kartu IoT.xlsx
